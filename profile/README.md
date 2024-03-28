@@ -1,59 +1,56 @@
 <h3 align="center">
   <img
-    src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only"
+    src="https://raw.githubusercontent.com/BrainChainAI/.github/main/profile/logo-light.svg#gh-dark-mode-only"
     height="110"
   />
   <img
-    src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only"
+    src="https://raw.githubusercontent.com/BrainChainAI/.github/main/profile/logo-dark.svg#gh-light-mode-only"
     height="110"
   />
 </h3>
 
+<!--
 <div>
   <p align="center">
     <a
-    href="https://twitter.com/langchainai">
+    href="https://twitter.com/BrainChainai">
         <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/company/langchain/">
+    <a href="https://www.linkedin.com/company/BrainChain/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://discord.gg/5Fgux4em9W">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://www.youtube.com/@LangChain">
+    <a href="https://www.youtube.com/@BrainChain">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
   </p>
 </div>
+-->
 
 <h3 align="center">
-  <p>Build context-aware, reasoning applications with LangChain’s flexible abstractions and AI-first toolkit.</p>
+  <p>Build context-aware, reasoning applications with BrainChain’s flexible abstractions and AI-first toolkit.</p>
 </h3>
 
-The LangChain Libraries:
+The BrainChain Libraries:
 
-- [`LangChain`](https://github.com/langchain-ai/langchain) (Python)
-- [`LangChain JS`](https://github.com/langchain-ai/langchainjs) (JavaScript/TypeScript)
+- [`BrainChain`](https://github.com/BrainChainAI/BrainChain) (Python)
+- [`BrainChain JS`](https://github.com/BrainChainAI/BrainChainjs) (JavaScript/TypeScript)
 
 Our Products:
-- [`LangSmith`](https://docs.smith.langchain.com) - the platform for building production-grade LLM applications
+- [`BrainBuilder`](https://docs.builder.BrainChain.com) - the platform for building production-grade LM3 applications
 
 Extensions:
-- [`LangServe`](https://github.com/langchain-ai/langserve) - deploy LangChain runnables and chains as a REST API (Python)
-- [`OpenGPTs`](https://github.com/langchain-ai/opengpts) - Open-source effort to create a similar experience to OpenAI's GPTs and Assistants API (Python)
-- [`LangGraph`](https://github.com/langchain-ai/langgraph) - build language agents as graphs (Python)
-- [`LangGraph JS`](https://github.com/langchain-ai/langgraphjs) - LangGraph in JavaScript (JavaScript/TypeScript)
-
-Live Demos:
-- [`ChatLangChain`](https://github.com/langchain-ai/chat-langchain) - LangChain-powered chatbot focused on question answering over the LangChain documentation (Python)
-- [`ChatLangChain JS`](https://github.com/langchain-ai/chat-langchainjs) - ChatLangChain in JavaScript (JavaScript/TypeScript)
-- [`WebLangChain`](https://github.com/langchain-ai/weblangchain) - LangChain-powered web research chatbot (Python)
+- [`LangServe`](https://github.com/BrainChainAI/langserve) - deploy BrainChain runnables and chains as a REST API (Python)
+- [`OpenGPTs`](https://github.com/BrainChainAI/opengpts) - Open-source effort to create a similar experience to OpenAI's GPTs and Assistants API (Python)
+- [`LangGraph`](https://github.com/BrainChainAI/langgraph) - build language agents as graphs (Python)
+- [`LangGraph JS`](https://github.com/BrainChainAI/langgraphjs) - LangGraph in JavaScript (JavaScript/TypeScript)
 
 ## Learn more
 
 | Section | Description |
 |-|-|
-| [Company Website](https://langchain.com) | LangChain product and company info |
-| [Python Documentation](https://python.langchain.com/docs/get_started/quickstart) | Get started with the Python library |
-| [JavaScript Documentation](https://js.langchain.com/docs/get_started/quickstart) | Get started with the JavaScript library |
+| [Company Website](https://BrainChain.com) | BrainChain product and company info |
+| [Python Documentation](https://python.BrainChain.com/docs/get_started/quickstart) | Get started with the Python library |
+| [JavaScript Documentation](https://js.BrainChain.com/docs/get_started/quickstart) | Get started with the JavaScript library |
