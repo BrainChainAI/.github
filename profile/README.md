@@ -45,7 +45,7 @@ Our Products:
 - BrainBuilder <!--[`BrainBuilder`](https://docs.builder.BrainChain.com)-->- the platform for building production-grade LM3 applications (later)
 
 Extensions:
-- [`LangServe`](https://github.com/BrainChainAI/brainserve) - deploy BrainChain runnables and chains as a REST API (Python)
+- [`BrainServe`](https://github.com/BrainChainAI/brainserve) - deploy BrainChain runnables and chains as a REST API (Python)
 - [`OpenLM3s`](https://github.com/BrainChainAI/openlm3s) - Open-source effort to create a similar experience to OpenAI's GPTs and Assistants API, but multimodal (Python)
 - [`BrainGraph`](https://github.com/BrainChainAI/braingraph) - build language agents as graphs (Python)
 - [`BrainGraph JS`](https://github.com/BrainChainAI/braingraphjs) - LangGraph in JavaScript (JavaScript/TypeScript)
