@@ -42,14 +42,15 @@ The BrainChain Libraries:
 - [`BrainChain JS`](https://github.com/BrainChainAI/BrainChainjs) (JavaScript/TypeScript)
 
 Our Products:
-- [`BrainBuilder`](https://docs.builder.BrainChain.com) - the platform for building production-grade LM3 applications
+- BrainBuilder <!--[`BrainBuilder`](https://docs.builder.BrainChain.com)-->- the platform for building production-grade LM3 applications (later)
 
 Extensions:
 - [`LangServe`](https://github.com/BrainChainAI/langserve) - deploy BrainChain runnables and chains as a REST API (Python)
-- [`OpenGPTs`](https://github.com/BrainChainAI/opengpts) - Open-source effort to create a similar experience to OpenAI's GPTs and Assistants API (Python)
-- [`LangGraph`](https://github.com/BrainChainAI/langgraph) - build language agents as graphs (Python)
-- [`LangGraph JS`](https://github.com/BrainChainAI/langgraphjs) - LangGraph in JavaScript (JavaScript/TypeScript)
+- [`OpenLM3s`](https://github.com/BrainChainAI/openlm3s) - Open-source effort to create a similar experience to OpenAI's GPTs and Assistants API, but multimodal (Python)
+- [`BrainGraph`](https://github.com/BrainChainAI/braingraph) - build language agents as graphs (Python)
+- [`BrainGraph JS`](https://github.com/BrainChainAI/braingraphjs) - LangGraph in JavaScript (JavaScript/TypeScript)
 
+<!--
 ## Learn more
 
 | Section | Description |
@@ -57,3 +58,4 @@ Extensions:
 | [Company Website](https://BrainChain.com) | BrainChain product and company info |
 | [Python Documentation](https://python.BrainChain.com/docs/get_started/quickstart) | Get started with the Python library |
 | [JavaScript Documentation](https://js.BrainChain.com/docs/get_started/quickstart) | Get started with the JavaScript library |
+-->
