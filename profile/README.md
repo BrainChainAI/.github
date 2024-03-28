@@ -1,4 +1,5 @@
 <h3 align="center">
+  <!--
   <img
     src="https://raw.githubusercontent.com/BrainChainAI/.github/main/profile/logo-light.svg#gh-dark-mode-only"
     height="110"
@@ -7,6 +8,8 @@
     src="https://raw.githubusercontent.com/BrainChainAI/.github/main/profile/logo-dark.svg#gh-light-mode-only"
     height="110"
   />
+  -->
+  <b>BrainChain</b>
 </h3>
 
 <!--
